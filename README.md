@@ -1,2 +1,2 @@
-# rheo_-_diffrac_code
-Dash app to visualise rotational rheology, oscillatory rheology and laser diffraction plots. There are options to carry out analysis of the data. 
+# rot_rheo_app
+Dash app to visualise rotational rheology data collected from Anton Paar rheometer MCR502 series. This data is obtained from a custom project on the Anton Paar rheocompass software that was used developed to study the flow properties of emulsions. The rheocompass software outputs the raw data in an excel spreadsheet containing viscosity and shear rate values which are used to plot flow curves. 
